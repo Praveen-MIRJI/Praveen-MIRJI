@@ -59,4 +59,4 @@ const praveen = {
 📩 Email me: praveendeveloper333@gmail.com
 🌐 Projects → github.com/Praveen-MIRJI
 
-<p align="center"><b>📍 Karnataka, India | #NeverStopBuilding | #AIML</b></p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Praveen-MIRJI&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> </p>
+<p align="center"><b>📍 Karnataka, India | #NeverStopBuilding | #AIML</b></p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Praveen-MIRJI&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> </p> ```
