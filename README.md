@@ -60,7 +60,7 @@ const praveen = {
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,pycham,tailwind,git,github,vscode,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,tailwind,git,github,vscode,html,css,javascript" />
 </p>
 
 ---
